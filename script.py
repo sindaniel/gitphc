@@ -1,4 +1,4 @@
-class Pagos2oo:
+class PHC:
 	def __init__(self, name):
 		self.name = name
 	
